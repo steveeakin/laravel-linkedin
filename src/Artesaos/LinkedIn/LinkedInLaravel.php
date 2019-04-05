@@ -8,7 +8,7 @@
 
 namespace Artesaos\LinkedIn;
 
-use Happyr\LinkedIn\LinkedIn;
+use Scottybo\LinkedIn2;
 
 class LinkedInLaravel extends LinkedIn
 {
